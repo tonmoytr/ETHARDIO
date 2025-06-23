@@ -135,7 +135,7 @@
                                                             }), (0, a.jsx)("button", {
                                                                 className: "sm:text-md text-xs",
                                                                 children: (0, a.jsx)("a", {
-                                                                    href: "buylink",
+                                                                    href: "https://app.uniswap.org/explore/tokens/ethereum/0x6A1dd00751336eb2Ae55C4B52a1620685fd9C42C",
                                                                     target: "_blank",
                                                                     rel: "noreferrer",
                                                                     children: "Buy"
@@ -143,7 +143,7 @@
                                                             }), (0, a.jsx)("button", {
                                                                 className: "sm:text-md text-xs",
                                                                 children: (0, a.jsx)("a", {
-                                                                    href: "https://dexscreener.com/",
+                                                                    href: "https://dexscreener.com/ethereum/0xbf091f7189a6afc4993b6fe982c93d03a0526d3e",
                                                                     target: "_blank",
                                                                     rel: "noreferrer",
                                                                     children: "Dex"
@@ -151,7 +151,7 @@
                                                             }), (0, a.jsx)("button", {
                                                                 className: "sm:text-md text-xs",
                                                                 children: (0, a.jsx)("a", {
-                                                                    href: "chartlink",
+                                                                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xbf091f7189a6afc4993b6fe982c93d03a0526d3e?t=1750692484439",
                                                                     target: "_blank",
                                                                     rel: "noreferrer",
                                                                     children: "Dextools"
