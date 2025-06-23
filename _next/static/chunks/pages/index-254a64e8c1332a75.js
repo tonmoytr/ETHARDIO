@@ -119,7 +119,7 @@
                                                             children: [(0, a.jsx)("button", {
                                                                 className: "sm:text-md text-xs",
                                                                 children: (0, a.jsx)("a", {
-                                                                    href: "ttlink",
+                                                                    href: "https://x.com/Ethardiocult",
                                                                     target: "_blank",
                                                                     rel: "noreferrer",
                                                                     children: "Twitter"
