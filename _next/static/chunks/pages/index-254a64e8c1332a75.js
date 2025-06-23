@@ -265,7 +265,7 @@
                                         className: "window-body",
                                         children: (0, a.jsx)("p", {
                                             className: "sm:text-2xl text-[14px]",
-                                            children: "ethereum bros Raise your voice and spread the new world order $ETHARDIO"
+                                            children: "ethereum bros Raise your voice and spread the new world order $ETHARDIO : 0x6a1dd00751336eb2ae55c4b52a1620685fd9c42c"
                                         })
                                     }), (0, a.jsxs)("div", {
                                         className: "status-bar",
